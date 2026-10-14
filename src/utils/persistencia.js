@@ -1,4 +1,3 @@
-// Persistencia del estado global de la tienda: carrito y sesión.
 import { eliminarDatos, guardarDatos, leerDatos } from "./almacenamiento";
 
 export const CLAVE_CARRITO = "sanMarcos.carrito";

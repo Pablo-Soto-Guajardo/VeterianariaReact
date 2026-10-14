@@ -1,4 +1,3 @@
-// Filtros y ordenamiento del catálogo. Se usan en la página Productos.
 import { precioVigente } from "./precio";
 
 function normalizar(texto) {

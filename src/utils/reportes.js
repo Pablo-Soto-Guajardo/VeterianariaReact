@@ -1,5 +1,3 @@
-// Cálculos para los reportes del panel de administración.
-
 export function ordenesPagadas(ordenes) {
   return ordenes.filter((orden) => orden.estado === "Pagada");
 }

@@ -1,6 +1,3 @@
-// Utilidades de precios. Son funciones puras: reciben datos y devuelven
-// un resultado sin modificar la interfaz, por eso son fáciles de probar.
-
 export function formatearPrecio(valor) {
   if (valor === 0) return "Gratis";
   return `$${valor.toLocaleString("es-CL")}`;
