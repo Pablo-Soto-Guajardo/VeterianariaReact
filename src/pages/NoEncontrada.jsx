@@ -14,4 +14,4 @@ function NoEncontrada() {
   );
 }
 
-export default NoEncontrada;
+export default NoEncontrada; 
