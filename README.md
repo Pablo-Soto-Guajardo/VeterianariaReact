@@ -148,8 +148,8 @@ rechazadas sin esperar ni depender de un servicio real. El detalle está en el d
 
 | Dato | Valor |
 | --- | --- |
-| URL pública | `http://IP_PUBLICA` *(completar después de desplegar)* |
-| Fecha de despliegue | *pendiente* |
+| URL pública | http://54.83.228.129 |
+| Fecha de despliegue | 15 de octubre de 2026 |
 | Servidor | Nginx sobre Ubuntu Server LTS |
 
 1. Generar el build: `npm run build`.
